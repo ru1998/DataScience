@@ -15,7 +15,7 @@ navbar:
     href: https://www.facebook.com/econ.shu.7
 output:
   html_document:
-    theme: flatly
+    theme: united
     highlight: pygments
     lib_dir: site_libs
     self_contained: no

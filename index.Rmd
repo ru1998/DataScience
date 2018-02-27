@@ -1,8 +1,13 @@
 ---
-title: "世新經濟資料科學"
+title: "世新經濟資料科學網頁"
 ---
 
 <img src="pictures/DataScience.png" alt="Photo", width = "66%">
+
+***
+原始檔案：！[GitHub](https://github.com/shuecon)
+
+***
 
 ## 本學期活動訊息
 
