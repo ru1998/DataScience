@@ -1,0 +1,22 @@
+name: Website
+output_dir: public
+navbar:
+  title: Website
+  left:
+  - text: Home
+    href: index.html
+  - text: R研習
+    href: r.html
+  - text: Python研習
+    href: python.html
+  - text: 讀書會
+    href: study.html
+  - text: 臉書
+    href: https://www.facebook.com/econ.shu.7
+output:
+  html_document:
+    theme: flatly
+    highlight: pygments
+    lib_dir: site_libs
+    self_contained: no
+
