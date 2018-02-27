@@ -5,13 +5,13 @@ navbar:
   left:
   - text: Home
     href: index.html
-  - text: R研習
+  - text: R軟體研習
     href: r.html
-  - text: Python研習
+  - text: Python軟體研習
     href: python.html
-  - text: 讀書會
+  - text: 師生讀書會
     href: study.html
-  - text: 臉書
+  - text: 臉書連結
     href: https://www.facebook.com/econ.shu.7
 output:
   html_document:
