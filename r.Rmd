@@ -18,19 +18,21 @@ title: "R研習"
 
 ### 上學期：資料科學概論
 
-- ![吳齊軒老師](https://github.com/shuecon/R-Course-2017-Autumn-I)
+- 吳齊軒老師
     - 進擊的Ｒ語言
     - 自學的Ｒ語言
     - R翻轉教室之資料工程
+    - <a href="https://github.com/shuecon/R-Course-2017-Autumn-I" target="_blank" title="檔案連結">檔案連結</a>
 
-- ![王銘宏老師](https://github.com/shuecon/R-Course-2017-Autumn-II-)
+- 王銘宏老師
     - 電機宅男的社科奇幻之旅
+    - <a href="https://github.com/shuecon/R-Course-2017-Autumn-II-" target="_blank" title="檔案連結">檔案連結</a>
 
     
 ### 暑假: Ｒ軟體研習
 
-- ![吳漢銘老師](https://github.com/shuecon/R-Workshop-2017-summer)
+- 吳漢銘老師
     - Ｒ語言基礎
     - 資料處理與統計分析
-
+    - <a href="https://github.com/shuecon/R-Workshop-2017-summer" target="_blank" title="檔案連結">檔案連結</a>
 ---

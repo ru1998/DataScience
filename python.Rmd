@@ -16,22 +16,28 @@ title: "Python研習"
 
 ### 寒假：Python軟體研習
 
-- ![蔡炎龍老師](https://github.com/shuecon/Python-Workshop-2018-Winter)
+- 蔡炎龍老師
     - Python 基礎與 Jupyter Notebook
     - Python 的重要技巧
     - Pandas 是數據分析的大門
     - 機器學習
-- ![許懷中老師](https://github.com/shuecon/Python-Talk-2018-Winter-1)
+    - <a href="https://github.com/shuecon/Python-Workshop-2018-Winter" target="_blank" title="檔案連結">檔案連結</a>
+
+- 許懷中老師
     - 娛樂產業中的資料科學家
-- ![陳育仁老師](https://github.com/shuecon/Python-Talk-2018-II-)
+    - <a href="https://github.com/shuecon/Python-Talk-2018-Winter-1" target="_blank" title="檔案連結">檔案連結</a>
+
+- 陳育仁老師
     - 網路金融社群媒體大數據分析與應用
+    - <a href="https://github.com/shuecon/Python-Talk-2018-II-" target="_blank" title="檔案連結">檔案連結</a>
 
 ## 2017年
 
 ### 上學期：資料科學概論
 
-- ![曹祥雲老師](https://github.com/shuecon/Python-Course-2017-Autumn)
+- 曹祥雲老師
     - Python的網路爬蟲
+    - <a href="https://github.com/shuecon/Python-Course-2017-Autumn" target="_blank" title="檔案連結">檔案連結</a>
     
 ---
 
