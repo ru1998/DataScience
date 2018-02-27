@@ -2,7 +2,7 @@
 title: "世新經濟資料科學"
 ---
 
-<img src="pictures/DataScience.jpg" alt="Photo", width = "66%">
+<img src="pictures/DataScience.png" alt="Photo", width = "66%">
 
 ## 本學期活動訊息
 
