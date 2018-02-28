@@ -1,7 +1,7 @@
-name: Website
+name: Club Website
 output_dir: public
 navbar:
-  title: Website
+  title: Club Website
   left:
   - text: Home
     href: index.html

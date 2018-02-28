@@ -3,7 +3,7 @@ title: "Python研習"
 ---
 
 ***
-
+---
 
 
 ## 2018年
@@ -30,6 +30,8 @@ title: "Python研習"
 - 陳育仁老師
     - 網路金融社群媒體大數據分析與應用
     - <a href="https://github.com/shuecon/Python-Talk-2018-II-" target="_blank" title="檔案連結">檔案連結</a>
+
+***
 
 ## 2017年
 
