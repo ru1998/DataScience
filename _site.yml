@@ -1,7 +1,7 @@
 name: Data Science Website
 output_dir: public
 navbar:
-  title: Club Website
+  title: ShuEcon Website
   left:
   - text: Home
     href: index.html

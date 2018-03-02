@@ -1,5 +1,5 @@
 ---
-title: "數據分析網頁"
+title: "世新經濟數據分析"
 ---
 
 <img src="pictures/DataScience.png" alt="Photo", width = "66%">
