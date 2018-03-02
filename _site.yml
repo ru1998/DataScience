@@ -11,6 +11,8 @@ navbar:
     href: python.html
   - text: 師生讀書會
     href: study.html
+  - text: 學生作品
+    href: conference.html  
   - text: 臉書連結
     href: https://www.facebook.com/econ.shu.7
 output:
