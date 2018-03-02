@@ -1,5 +1,5 @@
 ---
-title: "世新經濟資料科學網頁"
+title: "世新大學經濟學系數據分析網頁"
 ---
 
 <img src="pictures/DataScience.png" alt="Photo", width = "66%">
